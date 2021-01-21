@@ -2,15 +2,14 @@
   padding: 0;
   margin: 0;
   position: relative;
+}
+
+.main-nav__hide {
   display: none;
 }
 
 .main-nav__visual {
   display: block;
-}
-
-.main-nav__hide {
-  display: none;
 }
 
 .main-nav__basic-bar {
@@ -188,6 +187,7 @@
     left: 17%;
     top: 0;
   }
+
   .main-nav__toggle,
   .main-nav__close-button {
     display: none;
